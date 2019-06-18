@@ -1,0 +1,24 @@
+ILOSC TUR SYMULACJI: 100
+Dlugosc planszy: 10
+Szerokosc planszy: 10
+Czas dzialania jedzenia specjalnego: 5
+Rzadkosc wystapienia jedzenia specjalnego: 10
+Czas ogluszenia: 5
+Czas ewolucji malej bakterii na srednia: 1
+Czas ewolucji sredniej bakterii na duza: 2
+Minimalna liczba poczatkowa malych bakterii w grupie bakterii: 1
+Minimalna liczba poczatkowa srednich bakterii w grupie bakterii: 1
+Minimalna liczba poczatkowa duzych bakterii w grupie bakterii: 1
+Grupa bakterii na pakiecie jedzenia nie ginie po zjedzeniu przez weza po tylu wygranych: 1
+Waz ginie po rozmnozeniu sie w nim tak licznej grupy bakterii z pakietu jedzenia: 1
+Grupa bakterii nie ginie po zjedzeniu przez weza po tylu wygranych: 1
+Waz ginie po rozmnozeniu sie w nim tak licznej grupy bakterii: 2
+Czas rozmnazania sie grupy bakterii: 20
+Czas miedzy pojawieniem sie antidotum: 5
+Czas istnienia antidotum: 2
+Tyle procent bakterii musi zostac w grupie, zeby zostala wchlonieta w sklad drugiej grupy: 25
+Maksymalna liczba poczatkowa malych bakterii w grupie bakterii: 10
+Maksymalna liczba poczatkowa srednich bakterii w grupie bakterii: 10
+Maksymalna liczba poczatkowa duzych bakterii w grupie bakterii: 10
+Ilosc wezy: 3
+Ilosc grup bakterii: 3
