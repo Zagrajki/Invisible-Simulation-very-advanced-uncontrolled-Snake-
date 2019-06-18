@@ -307,7 +307,7 @@ public class Grupa extends zyje implements WriteGrupa {
 	 * @return true - gdy wygra³a ta grupa bakteii; false - gdy przegra³a ta grupa
 	 *         bakterii
 	 */
-	private boolean walka(List<BakteriaI> wrog) {
+	public boolean walka(List<BakteriaI> wrog) {
 		int a = czlonkowie.size() * pochlanianieWrogiejGrupy / 100;
 		int b = wrog.size() * pochlanianieWrogiejGrupy / 100;
 		int nasi = czlonkowie.size();
